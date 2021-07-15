@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/pdfconverter/clientlibs"/>
+    <filter root="/apps/pdfconverter/components"/>
+    <filter root="/apps/pdfconverter/i18n"/>
+</workspaceFilter>
